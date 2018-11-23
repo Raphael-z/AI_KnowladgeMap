@@ -1,0 +1,63 @@
+{% extends "bayMax/base.html" %}
+{% block content %}
+    <header class="masthead text-white text-center">
+      <div class="overlay"></div>
+      <div class="container">
+        <div class="row">
+          <div class="col-xl-9 mx-auto">
+{#            <h1 class="mb-5">请输入宠物的症状</h1>#}
+          </div>
+          <div class="col-md-10 col-lg-8 col-xl-7 mx-auto">
+            <form action="/baymax/diagnose" method="get">
+              <div class="form-row">
+                <div class="col-12 col-md-9 mb-2 mb-md-0">
+                  <input name="symp" type="text" class="form-control form-control-lg" placeholder="{{ symp }}">
+                </div>
+                <div class="col-12 col-md-3">
+                  <button type="submit" class="btn btn-block btn-lg btn-primary">诊断</button>
+                </div>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+    </header>
+    <!-- Main Content -->
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+            {% if result_list %}
+                {% for dis in result_list %}
+                    <div class="post-preview">
+                    <a href="/baymax/diagnose_detail">
+                    <h2 class="post-title">
+                        {{ dis['proportion'] }}% {{ dis['word'] }}
+                    </h2>
+                     <h4 class="post-subtitle">
+                        主要症状:
+                     </h4>
+                        <p class="post-meta">
+                        {% for symp in dis['symps'] %}
+                            {{ symp['word'] }},
+                        {% endfor %}
+                        等
+                        </p>
+                     </a>
+    {#                <p class="post-meta">Posted by<a href="#">Start Bootstrap</a>on September 24, 2018</p>#}
+                    </div>
+                    <hr>
+               {% endfor %}
+              <!-- Pager -->
+              <div class="clearfix">
+                <a class="btn btn-primary float-right" href="/baymax/diagnose_all?symp={{ symp }}">查看全部 &rarr;</a>
+              </div>
+            {% else %}
+                <h2 class="post-title">无数据</h2>
+            {% endif %}
+        </div>
+      </div>
+    </div>
+
+    <hr>
+
+{% endblock %}

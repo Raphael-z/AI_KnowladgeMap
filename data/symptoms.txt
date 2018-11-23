@@ -1,0 +1,129 @@
+泛发性、系统性和代谢性既往症状General，systemic and metabolic histOrleal signs
+1.1.1 多尿／多饮 Polyuria／polydipsia
+1.1.2 体重减轻 Weight loss
+1.1.3 体重增加 Weight gain
+1.1.4 多食 Polyphagia
+1.1.5 厌食／食欲缺乏 Anorexia／inappetence
+1.1.6 不生长 Failure to grow
+1.1.7 晕厥／虚脱 Syncope／collapse
+1.1.8 无力 Weakness
+1.2 胃肠／腹部既往症状 Gastrointestinal／abdominal historical signs
+1.2.1 流涎／多涎／唾液分泌过多 Ptyalism／salivation／hypersaliVation
+1.2.2 呕／干呕 Gagging／retching
+1.2.3 吞咽困难 Dysphagia
+1.2.4 反流 Regtlrgitation
+1.2.5 呕吐 Vomiting
+1.2.6 腹泻 Diarrhoea
+1.2.7 黑粪症 Melaena
+1.2.8 吐血 Haematemesis
+1.2.9 便血 Haematochezia
+1.2.10 便秘／顽固性便秘 Constipation／obstipation
+1.2.11 排便里急后重／排便困难 Faecal tenesmus／dyschezia
+1.2.12 排便失禁 Faecal incontionence
+1.2.13 胃肠气胀／腹鸣 Flatulence／borborygmus
+1.3 心肺系统既往症状 Cardiorespiratory historical signs
+1.3.1 咳嗽 Coughing
+1.3.2 呼吸困难／呼吸急促 Dyspnoea／tachypnoea
+1.3.3 打喷嚏和流鼻涕Sneezing and nasal discharge
+1.3.4 鼻衄 Epistaxis
+1.3.5 咳血 Haemoptysis
+1.3.6 运动不耐受 Exercise intoleranee
+1.4 皮肤既往症状 Dermatological historical signs
+1.4.1 瘙痒 Pruritus
+1.5 神经系统既往症状 Neurological historical signs
+1.5.1 抽搐 Seizures
+1.5.2 震颤／发抖 Trembling／shivering
+1.5.3 共济失调／意识性本体感受缺失 Ataxia／conscious proprioceptive deficits
+1.5.4 轻瘫／瘫痪 Paresis／paralysis
+1.5.5 昏迷／昏睡 Coma／stupor
+1.5.6 行为改变-一般性改变 Altered behaviour——general changes
+1.5.7 行为改变-特异性行为问题 Altered behaviour-specific behavioural problems
+1.5.8 耳聋 Deafness
+1.5.9 多灶性神经病 Multifocal neurological disease
+1.6 眼部既往症状 Ocular historical signs
+1.6.1 失明／视觉损害 Blindness／visual impairment
+1.6.2 泪溢／泪过多 Epiphora／tear overflow
+1.7 肌肉骨骼系统既往症状 Musculoskeletal historical signs
+1.7.1 前肢跛行 Forelimb lameness
+1.7.2 后肢跛行 Hind limb lameness
+1.7.3 多关节／肢跛行 Multiple joint／limb lameness
+1.8 生殖系统既往症状 Reproductive historical signs
+1.8.1 不发情 Failure to observe oestrus
+1.8.2 发情无规律 Irregular seasons
+1.8.3 发情期正常的雌性不孕 Infertility in the female with normal oestrus
+1.8.4 雄性不育 Male infertility
+1.8.5 阴道／阴门分泌物 Vaginal／vulval discharge
+1.8.6 流产 Abortion
+1.8.7 难产 Dystocia
+1.8.8 新生儿死亡 Neonatal mortality
+1.9 泌尿系统既往症状 Urological historical signs
+1.9.1 尿频／尿痛／痛性尿淋漓 Pollakiuria／dysuria／stranguria
+1.9.2 多尿／多饮 Polyuria／polydipsia
+1.9.3 无尿／少尿 Anu ria／oliguria
+1.9.4 血尿 Haematuria
+1.9.5 尿失禁／排尿不当 Urinary incontinence／inappropriate urination
+第二部分 体征 Physical Signs
+2.1 泛发性／各种体征 General／miscellaneous physical signs
+2.1.1 体温异常一高热 Abnormalities of bodv temperature hyperthermia
+2.1.2 体温异常一体温过低 Abnormalities of body temperature-hypothermia
+2.1.3 淋巴结增大 Enlarged lymph nodes
+2.1.4 弥散性疼痛 Diffuse pain
+2.1.5 外周水肿 Peripheral oedema
+2.1.6 高血压 Hypertension
+2.1.7 低血压 Hypotension
+2.2 胃肠／腹部体征 Gastrointestinal／abdominal physical signs
+2.2.1 口腔病变 Oral lesions
+2.2.2 腹部膨大 Abdominal distension
+2.2.3 腹部疼痛 Abdominal pain
+2.2.4 肛周肿胀 Perianal swelling
+2.2.5 黄疸 Jaundice
+2.2.6 肝脏触诊异常 Abnormal liver palpation
+2.3 心肺系统体征 Cardiorespiratory physical signs
+2.3.1 呼吸困难／呼吸急促Dyspnoea／tachypnoea
+2.3.2 苍白 Pallor
+2.3.3 休克 Shock
+2.3.4 发绀 Cyanosis
+2.3.5 腹水 Ascites
+2.3.6 外周水肿 Peripheral oedema
+2.3.7 呼吸音异常 Abnormal respiratory sounds
+2.3.8 心音异常 Abnormal heart sounds
+2.3.9 心率异常 Abnormalities in heart rate
+2.3.10 颈静脉扩张／肝颈静脉反流阳性 Jugular distension／positive hepatojugular reflux
+2.3.11 颈静脉脉搏异常 Jugular pulse components
+2.3.12 动脉脉搏改变 Alterations in arterial pulse
+2.4 皮肤症状 Dermatological signs
+2.4.1 皮屑 Scaling
+2.4.2 脓疱和丘疹（包括粟粒状皮炎）Pustules and papules（including miliary dermatitis）
+2.4.3 结节 Nodules
+2.4.4 色素异常（被毛或皮肤）Pigmentation disorders（coat or skin）
+2.4.5 脱毛 Alopecia
+2.4.6 糜烂／溃疡性皮肤病 Erosive／ulcerative skin disease
+2.4.7 外耳炎 Otitis externa
+2.4.8 爪部皮炎 Pododermatitis
+2.4.9 爪部异常 Disorders of the claws
+2.4.10 肛囊／肛周疾病 Anal sac／perianal disease
+2.5 神经系统症状 Neurological signs
+2.5.1 脑神经反应异常 Abnormal cranial nerve（CN）responses
+2.5.2 前庭疾病 Vestibular disease
+2.5.3 霍纳氏综合征 Horner’s syndrome
+2.5.4 半边忽略综合征（前脑功能障碍q.v.）Hemineglect syndrome
+2.5.5 脊柱异常 Spinal disorders
+2.6 眼部症状 Ocular signs
+2.6.1 红眼 Red eye
+2.6.2 角膜浑浊 Corneal opacification
+2.6.3 角膜溃疡／糜烂 Corneal ulceration／erosion
+2.6.4 晶状体病变 Lens lesions
+2.6.5 视网膜病变 Retinal lesions
+2.6.6 眼内出血／眼前房出血 Intraocular haemorrhage／hyphaema
+2.6.7 前房形态异常 Abnormal appearance of anterior chamber
+2.7 肌肉骨骼系统症状 Musculoskeletal signs
+2.7.1 肌肉萎缩或肥大 Muscular atrophy or hypertrophy
+2.7.2 牙关紧闭（“锁颌”）Trismus（“lockjaw”）
+2.7.3 无力 Weakness
+2.8 泌尿生殖系统体征 Urogenital physical signs
+2.8.1 肾触诊异常 Kidneys abnormal on palpation
+2.8.2 膀胱异常 Bladder abnormalities
+2.8.3 前列腺触诊异常 Prostate abnormal on palpation
+2.8.4 子宫触诊异常 Uterus abnormal on palpation
+2.8.5 睾丸异常 Testicular abnormalities
+2.8.6 阴茎异常
